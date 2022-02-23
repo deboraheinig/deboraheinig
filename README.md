@@ -18,4 +18,4 @@
  <a href="https://discord.gg/ZXgKBeqK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/deboraheinig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-    ![Snake animation](https://github.com/deboraheinig/deboraheinig/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/deboraheinig/deboraheinig/actions/runs/1884767406/workflow)

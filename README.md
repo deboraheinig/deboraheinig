@@ -1,6 +1,5 @@
 ## Hello! I'm Deborah, a computer science student! ✧
 
-Hi!
 
  
 

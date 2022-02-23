@@ -1,6 +1,4 @@
-### Oie! Eu sou a Deborah =]
-
-**deboraheinig/deboraheinig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### oie! eu sou a deborah =]
 
 - 🌱 Estudando Kotlin
 - 😄 Pronouns: ela/dela

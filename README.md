@@ -1,4 +1,4 @@
-## Hello! I'm Deborah, a computer science student! ✧˖°
+## Hello! I'm Deborah, a computer science student! ✧
 
  
 

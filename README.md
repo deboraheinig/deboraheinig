@@ -9,7 +9,7 @@
   <a href="https://github.com/deboraheinig">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboraheinig&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraheinig&layout=compact&langs_count=7&theme=synthwave"/>
-    <img align="right" alt="Deh-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/OsW0N8R.gif">
+    <img align="right" alt="Deh-pic" height="200" style="border-radius:50px;" src="https://i.imgur.com/OsW0N8R.gif">
 </div>
   
   ##

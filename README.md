@@ -1,7 +1,7 @@
 ### oie! eu sou a deborah =]
 
-- 🌱 Estudando Kotlin
-- 😄 Pronouns: ela/dela
+- 🌱 atualmente estudando Kotlin
+- 😄 pronomes: ela/dela
 
 <div align="center">
   <a href="https://github.com/deboraheinig">

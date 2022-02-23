@@ -1,4 +1,4 @@
-## oie! eu sou a deborah =]
+## Oieeeeee! Eu sou a Deborah, estudante de ciência da computação! ( ´ ω ` )
 
  
 

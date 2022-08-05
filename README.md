@@ -1,5 +1,5 @@
 
-<h2 align="center">hey! I'm deborah, an android dev and computer science student. =] </h2> 
+<h2 align="center">hey! I'm deborah, android dev and computer science student. 💻 </h2> 
 <br>
 <div align="center">
   <a href="https://github.com/deboraheinig">

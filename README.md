@@ -1,5 +1,5 @@
 
-<h2 align="center">hey! 👋🏻 </h2> 
+<h1 align="center">hey! 👋🏻 </h1> 
 <h2 align="I'm deborah, android dev and computer science student. 💻 </h2> 
 <br>
 <div align="center">

@@ -1,7 +1,6 @@
-<div align="center">
-## hey! I'm Deborah, a junior android dev and computer science student! ✧
-</div>
 
+## hey! I'm Deborah, a junior android dev and computer science student! ✧
+<br>
 <div align="center">
   <a href="https://github.com/deboraheinig">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deboraheinig&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>

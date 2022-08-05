@@ -1,5 +1,5 @@
 
-## hey! i'm deborah, an android dev and computer science student! ✧
+## hey! I'm deborah, an android dev and computer science student! ✧
 <br>
 <div align="center">
   <a href="https://github.com/deboraheinig">

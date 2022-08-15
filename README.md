@@ -2,7 +2,7 @@
 <h2 align="center">hi! I'm deborah, glad to meet you. =) </h2> 
 
 <div align="left"><br>
- <P><b>about me:</b><br> ;
+ <P><b>about me:</b><br> 
 
 <br>
  <ul>

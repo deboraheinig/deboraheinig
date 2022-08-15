@@ -8,9 +8,7 @@
 <li>you can contact me through my <a href="https://www.linkedin.com/in/deboraheinig/">LinkedIn</a> or through my <a href = "mailto: deborah_heinig@edu.univali.br">e-mail</a>.</li>
 </ul>
  
- <div align="center">
-  <a href="https://www.linkedin.com/in/deboraheinig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
  <div align="center">
 <h2 align="center">hard skills </h2> 
 <br>
@@ -30,4 +28,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraheinig&layout=compact&langs_count=7&theme=synthwave"/>
   <img align="right" alt="Deh-pic" height="200" style="border-radius:50px;" src="https://i.imgur.com/OsW0N8R.gif">
 </div>
+
+<h2 align="center">contact me! </h2> 
+<br>
+
+ <div align="center">
+  <a href="https://www.linkedin.com/in/deboraheinig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
 

@@ -9,6 +9,16 @@
 </ul>
  
 
+
+  
+  <div align="center">
+ <h2 align="center"> github statistics </h2>
+  <a href="https://github.com/deboraheinig">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deboraheinig&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraheinig&layout=compact&langs_count=7&theme=synthwave"/>
+  <img align="right" alt="Deh-pic" height="200" style="border-radius:50px;" src="https://i.imgur.com/OsW0N8R.gif">
+</div>
+
  <div align="center">
 <h2 align="center">hard skills </h2> 
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
@@ -19,14 +29,6 @@
 </div>
 <br>
 
-  
-  <div align="center">
- <h2 align="center"> github statistics </h2>
-  <a href="https://github.com/deboraheinig">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deboraheinig&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraheinig&layout=compact&langs_count=7&theme=synthwave"/>
-  <img align="right" alt="Deh-pic" height="200" style="border-radius:50px;" src="https://i.imgur.com/OsW0N8R.gif">
-</div>
 
 <h2 align="center">contact me! </h2> 
 

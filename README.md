@@ -3,7 +3,7 @@
 <br>
   <div align="left"><br>
  <ul>
-<li>BSc in Computer Science by UNIVALI, <a href="https://www.timeshighereducation.com/world-university-rankings/university-vale-do-itajai">one of the best universities in Latin America.</a> </li>
+<li>BSc in Computer Science by UNIVALI, one of the<a href="https://www.timeshighereducation.com/world-university-rankings/university-vale-do-itajai"> best universities in Latin America.</a> </li>
 <li>i</li>
 <li>i</li>
 <li>i</li>

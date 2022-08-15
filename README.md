@@ -29,7 +29,7 @@
 </div>
 
 
-<h2 align="left">  Contact me! </h2> 
+<h2 align="left">  Contact me ↴ </h2> 
 
 
  <div align="left">

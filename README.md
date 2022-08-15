@@ -3,7 +3,6 @@
 
 <div align="left"><br>
  <P><h3>about me:</h3>
-  <br> 
  <ul>
 <li>BSc in Computer Science by UNIVALI, one of the<a href="https://www.timeshighereducation.com/world-university-rankings/university-vale-do-itajai"> best universities in Latin America</a>;</li>
 <li>android developer since 2021, focusing on android native [kotlin and java]. </li>

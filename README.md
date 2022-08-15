@@ -1,12 +1,13 @@
  
 <h2 align="center">hi! I'm deborah, glad to meet you. =) </h2> 
 <br>
-  <div align="center"><br>
+  <div align="left"><br>
  <ul>
 <li>BSc in Computer Science by UNIVALI, one of the<a href="https://www.timeshighereducation.com/world-university-rankings/university-vale-do-itajai"> best universities in Latin America.</a> </li>
 <li>i</li>
 <li>You can contact me through my LinkedIn:</li>
 </ul>
+ </div>
  <div align="center">
   <a href="https://www.linkedin.com/in/deboraheinig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>

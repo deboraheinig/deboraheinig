@@ -1,7 +1,6 @@
  
 <h2 align="center">hi! I'm deborah, BSc in computer science and android dev. =) </h2> 
 <br>
-
   <div align="center"><br>
 <h2 align="center">skills </h2> 
 <br>
@@ -15,7 +14,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/deboraheinig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+  
   <div align="center">
+ <h2 align="center">skills </h2>
   <a href="https://github.com/deboraheinig">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deboraheinig&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraheinig&layout=compact&langs_count=7&theme=synthwave"/>

@@ -1,5 +1,5 @@
  
-<h2 align="center">hey! I'm deborah, BSc in computer science and android dev. =) </h2> 
+<h2 align="center">hello! I'm deborah, BSc in computer science and android dev. =) </h2> 
 <br>
 <div align="center">
   <a href="https://github.com/deboraheinig">

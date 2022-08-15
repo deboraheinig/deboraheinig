@@ -27,7 +27,6 @@
    <img align="center" alt="Deh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Deh-Gradle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg">
 </div>
-<br>
 
 
 <h2 align="center">Contact me! </h2> 

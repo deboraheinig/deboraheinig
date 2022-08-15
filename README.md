@@ -5,7 +5,7 @@
  <ul>
 <li>BSc in Computer Science by UNIVALI, one of the<a href="https://www.timeshighereducation.com/world-university-rankings/university-vale-do-itajai"> best universities in Latin America.</a> </li>
 <li>i</li>
-<li>You can contact me through my LinkedIn:</li>
+<li>You can contact me through my <a href="https://www.linkedin.com/in/deboraheinig/">LinkedIn</a> or my <a href = "mailto: deborah_heinig@edu.univali.br">e-mail</a>:</li>
 </ul>
  
  <div align="center">

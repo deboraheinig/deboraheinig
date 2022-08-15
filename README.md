@@ -1,5 +1,5 @@
  
-<h2 align="center">hi! I'm deborah, glad to meet you. =) </h2> 
+<h2 align="center">Hi! I'm deborah, welcome to my profile. =) </h2> 
 <div align="left">
  <h3>👩🏻‍💻 About me:</h3>
  <ul>

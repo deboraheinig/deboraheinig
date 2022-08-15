@@ -1,7 +1,7 @@
  
 <h2 align="center">hi! I'm deborah, glad to meet you. =) </h2> 
 <br>
-  <div align="center"><br>
+  <div align="left"><br>
  <ul>
 <li>i</li>
 <li>i</li>

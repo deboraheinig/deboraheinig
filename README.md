@@ -19,7 +19,7 @@
   <img align="right" alt="Deh-pic" height="200" style="border-radius:50px;" src="https://i.imgur.com/OsW0N8R.gif">
 </div>
 
- <div align="center">
+ <div align="left">
 <h2 align="left">Skills </h2> 
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">

@@ -2,7 +2,8 @@
 <h2 align="center">hi! I'm deborah, BSc in computer science and android dev. =) </h2> 
 <br>
   <div align="center"><br>
-<h2 align="center">skills </h2> 
+ 
+<h2 align="center">Skills </h2> 
 <br>
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
@@ -16,7 +17,7 @@
   </div>
   
   <div align="center">
- <h2 align="center"> statistics </h2>
+ <h2 align="center"> Statistics </h2>
   <a href="https://github.com/deboraheinig">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deboraheinig&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraheinig&layout=compact&langs_count=7&theme=synthwave"/>

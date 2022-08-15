@@ -11,7 +11,6 @@
 
  <div align="center">
 <h2 align="center">hard skills </h2> 
-<br>
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
     <img align="center" alt="Deh-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">

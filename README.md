@@ -18,7 +18,6 @@
   <div align="center">
   
  <h2 align="left"> Github statistics </h2>
- <hr size="10">
   <a href="https://github.com/deboraheinig">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deboraheinig&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraheinig&layout=compact&langs_count=7&theme=synthwave"/>
@@ -35,7 +34,7 @@
 </div>
 
 
-<h2 align="left">  Contact me ↴ </h2> 
+<h2 align="left" size="10">  Contact me ↴ </h2> 
 
 
  <div align="left">

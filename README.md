@@ -34,7 +34,7 @@
    
  <div align="left">
    <h2 align="center"> </h2> 
-<h3 align="left"> 💬 let's talk?</h3> 
+<h3 align="left"> 💬 Let's talk?</h3> 
  </div>
 
  <div align="left">

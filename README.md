@@ -2,7 +2,7 @@
 <h2 align="center">Hi! I'm deborah, welcome to my profile. =) </h2> 
 <div align="left">
 <body>
-<img src="https://images.unsplash.com/photo-1589652717521-10c0d092dea9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" height= "180" width="235" align="right" hspace="12" vspace="12"/>
+<img src="https://images.unsplash.com/photo-1589652717521-10c0d092dea9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" height= "180" width="235" align="right" hspace="12" vspace="0"/>
 <h3 style="float:right;">👩🏻‍🎓 About me:</h3>
 
  <ul>

@@ -20,12 +20,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deboraheinig&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraheinig&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
+   <hr style="width:50%", size="3", color=black>  
 
  <div align="left">
 <h3 align="left"> 💻 Skills:  </h3> 
 
  <h2 align="center"> </h2> 
-  
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
     <img align="center" alt="Deh-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">

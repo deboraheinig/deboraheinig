@@ -33,9 +33,10 @@
 
 </div>
 
- <b>💬 let's talk?</b>
+ 
  <div align="left"> 
-<hr size="3"/>
+<hr size="4"/>
+  <b>💬 let's talk?</b>
  
 </div>
  <div align="left">

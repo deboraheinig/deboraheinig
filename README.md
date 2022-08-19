@@ -37,7 +37,7 @@
 
  
 
-<hr style="height:1px; width:10%; border-width:0; color:red; background-color:red">
+<hr style="height:1px; width:0%; border-width:0; color:red; background-color:red">
  
  <div align="left">
   <a href="https://www.linkedin.com/in/deboraheinig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

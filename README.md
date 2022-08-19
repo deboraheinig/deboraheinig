@@ -16,8 +16,7 @@
 
 
   <div align="center">
-  
- <h2 align="left"><hr size=3/> Github statistics </h2>
+  <hr size=3/>
   <a href="https://github.com/deboraheinig">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deboraheinig&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraheinig&layout=compact&langs_count=7&theme=synthwave"/>

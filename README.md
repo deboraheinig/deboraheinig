@@ -23,7 +23,8 @@
 
  <div align="left">
 <h3 align="left"> 💻 Skills:  </h3> 
-<hr style="height:1px; width:10%; border-width:0; color:red; background-color:red">
+
+ <h2 align="center"> </h2> 
   
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">

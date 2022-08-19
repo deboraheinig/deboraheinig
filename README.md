@@ -33,8 +33,9 @@
 </div>
 
 
- <h2 align="center"> </h2> 
    <b> 💬</b>
+   
+ <h2 align="center"> </h2> 
    <br>
  <div align="left">
   <a href="https://www.linkedin.com/in/deboraheinig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

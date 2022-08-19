@@ -16,7 +16,7 @@
 
 
   <div align="center">
-  <hr size=3/>
+  
   <a href="https://github.com/deboraheinig">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deboraheinig&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboraheinig&layout=compact&langs_count=7&theme=synthwave"/>
@@ -33,9 +33,9 @@
 </div>
 
 
-<h2 align="left" size="10">  Contact me ↴ </h2> 
+<hr size=3/>
 
- <b>💬 Let's talk? DM me on LinkedIn!</b>
+ <b>💬 Let's talk? ↴</b>
  <div align="left">
  
   <a href="https://www.linkedin.com/in/deboraheinig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

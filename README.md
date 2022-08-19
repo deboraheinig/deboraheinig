@@ -22,7 +22,7 @@
 </div>
 
  <div align="center">
-<h2 align="center"> ✨ skils ✨ </h2> 
+<h2 align="center">  skills  </h2> 
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
     <img align="center" alt="Deh-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
@@ -37,7 +37,7 @@
 
 <hr size="4"/>
  
- <div align="left">
+ <div align="center">
   <a href="https://www.linkedin.com/in/deboraheinig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 

@@ -35,8 +35,8 @@
 
 
 
-<hr size="3" />
- <b>💬 let's talk?</b>
+<hr size="3"> <b>💬 let's talk?</b> <hr/>
+
  <div align="left">
   <a href="https://www.linkedin.com/in/deboraheinig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>

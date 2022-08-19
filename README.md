@@ -14,7 +14,7 @@
  
 
 
-
+<hr size="3" />
   <div align="center">
   <a href="https://github.com/deboraheinig">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deboraheinig&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>

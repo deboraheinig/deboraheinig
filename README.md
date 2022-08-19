@@ -33,13 +33,13 @@
 </div>
 
 
-<h2 align="left" size="10">  Contact me ↴ </h2> 
+</div>
 
 
- <b>💬 Let's talk? DM me on LinkedIn!</b>
+<h2 align="left">  Contact me ↴ </h2> 
+
+
  <div align="left">
-  <b>💬 Let's talk? DM me on LinkedIn!</b>
-
   <a href="https://www.linkedin.com/in/deboraheinig/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 

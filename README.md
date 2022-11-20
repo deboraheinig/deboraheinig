@@ -10,7 +10,6 @@
 <li>Android developer since 2021, focusing on native [kotlin and java]; </li>
 <li>You can contact me through my <a href="https://www.linkedin.com/in/deboraheinig/">LinkedIn</a> or through my <a href = "mailto: deborah_heinig@edu.univali.br">e-mail</a>.</li>
 </ul>
- ![image title](https://rushter.com/counter.svg)
 </body>
  
 

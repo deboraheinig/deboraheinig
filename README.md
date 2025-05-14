@@ -1,6 +1,7 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deboraheinig.deboraheinig" />
 <h3 align="center">˚₊‧꒰ა ☆ ໒꒱ ‧₊˚</h3> 
 <h2 align="center">hi! I'm deborah, welcome to my profile. </h2> 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deboraheinig.deboraheinig" />
+
 <h3 align="center"></h3> 
 <div align="left">
 <body>

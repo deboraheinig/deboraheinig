@@ -2,7 +2,7 @@
 <h3 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=1000&color=F7CCE1&center=true&width=435&lines=hello+there!;I'm+Deborah+(%CB%B6%CB%86%E1%97%9C%CB%86%CB%B5)" alt="Typing SVG" /></a>
 </h3>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=18&pause=100000&color=A2EAF7&center=true&width=435&lines=%CB%9A%E2%82%8A%E2%80%A7%EA%92%B0%E1%83%90+%E2%98%86+%E0%BB%92%EA%92%B1+%E2%80%A7%E2%82%8A%CB%9A" alt="Typing SVG" /></a></h3> 
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&pause=100000&color=A2EAF7&center=true&width=435&lines=%CB%9A%E2%82%8A%E2%80%A7%EA%92%B0%E1%83%90+%E2%98%86+%E0%BB%92%EA%92%B1+%E2%80%A7%E2%82%8A%CB%9A" alt="Typing SVG" /></a></h3> 
 
 
 <h3 align="center"></h3> 

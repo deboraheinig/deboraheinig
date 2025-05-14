@@ -4,7 +4,7 @@
 <div align="left">
 <body>
 <img src="https://images.unsplash.com/photo-1589652717521-10c0d092dea9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80" height= "140" width="205" align="right" hspace="4" vspace="60"/>
-<h3 style="float:right;">👩🏻‍🎓 About me:</h3>
+<h3 style="float:right;">about me:</h3>
 
  <ul>
 <li>BSc in Computer Science by UNIVALI, one of the<a href="https://www.timeshighereducation.com/world-university-rankings/university-vale-do-itajai"> best universities in Latin America</a>;</li>
@@ -24,7 +24,7 @@
 </div>
 
  <div align="left">
-<h3 align="left"> 💻 Skills: </h3> 
+<h3 align="left"> skills: </h3> 
 
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">

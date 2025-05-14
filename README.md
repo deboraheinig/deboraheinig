@@ -28,7 +28,7 @@
        <h2 align="center"> </h2>  
 </div>
 
- <div align="left">
+
      <h3 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&pause=100000&color=A2EAF7&width=435&lines=%CB%9A%E2%82%8A%E2%80%A7%EA%92%B0%E1%83%90+%E2%98%86+%E0%BB%92%EA%92%B1+%E2%80%A7%E2%82%8A%CB%9A" alt="Typing SVG" /></a></h3> 
 <h3 align="left"> skills: </h3> 
 
@@ -36,7 +36,7 @@
    <img align="center" alt="Deh-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
     <img align="center" alt="Deh-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
    <img align="center" alt="Deh-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+
    
  <div align="left">
    <h2 align="center"> </h2> 

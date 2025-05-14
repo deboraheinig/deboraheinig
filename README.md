@@ -1,4 +1,4 @@
-<h2 align="center">˚₊‧꒰ა ☆ ໒꒱ ‧₊˚</h2> 
+<h3 align="center">˚₊‧꒰ა ☆ ໒꒱ ‧₊˚</h3> 
 <h2 align="center">hi! I'm deborah, welcome to my profile. </h2> 
 <div align="left">
 <body>

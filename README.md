@@ -1,4 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=deboraheinig.deboraheinig" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/demo/?font=Montserrat&size=28&color=F7CCE1&center=true&lines=hello+there!;I'm+Deborah+(%CB%B6%CB%86%E1%97%9C%CB%86%CB%B5)" />
+</h1>
 <h3 align="center">˚₊‧꒰ა ☆ ໒꒱ ‧₊˚</h3> 
 <h2 align="center">hi! I'm deborah, welcome to my profile. </h2> 
 

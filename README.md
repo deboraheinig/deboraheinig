@@ -2,7 +2,7 @@
 <h3 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=28&pause=1000&color=F7CCE1&center=true&width=435&lines=hello+there!;I'm+Deborah+(%CB%B6%CB%86%E1%97%9C%CB%86%CB%B5)" alt="Typing SVG" /></a>
 </h3>
-<h1 align="center">˚₊‧꒰ა ☆ ໒꒱ ‧₊˚</h1> 
+<h3 align="center">˚₊‧꒰ა ☆ ໒꒱ ‧₊˚</h3> 
 
 
 <h3 align="center"></h3> 
